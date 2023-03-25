@@ -22,6 +22,11 @@ tensorflow==2.8.0
 ```
 
 
+*  modeller
+https://salilab.org/modeller/
+
+
+
 ## Molecular dynamics
 
 ### prpepare  topology and coordinate files
