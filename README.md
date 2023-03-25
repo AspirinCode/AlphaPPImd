@@ -71,7 +71,10 @@ python run_openmm_simulation.py
 
 ## Model Metrics
 
+### DockQ
+DockQ: A Quality Measure for Protein-Protein Docking Models
 
+https://github.com/bjornwallner/DockQ
 
 
 ## License
