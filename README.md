@@ -8,12 +8,13 @@ We thank the authors of C5T5: Controllable Generation of Organic Molecules with 
 ## Requirements
 ```python
 Python==3.7
-pandas==1.1.5
-numpy==1.19.2
-openmm==1.10.0
-mdanalysis==1.0
+biopython==1.7.9
+openmm==7.7.0
+mdanalysis==2.1.0
+mdtraj==1.9.7
 pytraj==2.0.6
-modeller==
+modeller==10.2
+nglview==3.0.3
 tensorflow==2.8.0
 ```
 
