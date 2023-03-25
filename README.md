@@ -22,9 +22,33 @@ tensorflow==2.8.0
 ```
 
 
+*  biopython
+
+https://github.com/biopython/biopython
+
+*  OpenMM
+
+https://openmm.org/
+
 *  modeller
+
 https://salilab.org/modeller/
 
+MDAnalysis
+
+https://www.mdanalysis.org/
+
+*  nglview
+
+https://github.com/nglviewer/nglview
+
+*  pytraj
+
+https://github.com/Amber-MD/pytraj
+
+*  mdtraj
+
+https://github.com/mdtraj/mdtraj
 
 
 ## Molecular dynamics
