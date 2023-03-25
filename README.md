@@ -22,8 +22,6 @@ tensorflow==2.8.0
 ```
 
 
-
-
 ## Molecular dynamics
 
 ### prpepare  topology and coordinate files
@@ -76,6 +74,7 @@ DockQ: A Quality Measure for Protein-Protein Docking Models
 
 https://github.com/bjornwallner/DockQ
 
+*  Basu, Sankar, and Björn Wallner. "DockQ: a quality measure for protein-protein docking models." PloS one 11, no. 8 (2016): e0161879.
 
 ## License
 Code is released under MIT LICENSE.
