@@ -26,10 +26,48 @@ tensorflow==2.8.0
 
 ## Molecular dynamics
 
+### prpepare  topology and coordinate files
+```python
+pdb4amber -i A.pdb -o a.pdb -y -d
+
+pdb4amber -i a.pdb -o inputA.pdb --reduce
+
+pdb4amber -i B.pdb -o b.pdb -y -d
+
+pdb4amber -i b.pdb -o inputB.pdb --reduce
+
+
+************tleap.in**********************************************
+source leaprc.protein.ff14SB #Source leaprc file for ff14SB protein force field
+source leaprc.water.tip3p #Source leaprc file for TIP3P water model
+
+ProA = loadpdb inputA.pdb #Load A PDB file for protein
+ProB = loadpdb inputB.pdb #Load B PDB file for protein
+
+mol = combine {ProA,ProB}
+
+check mol
+solvatebox mol TIP3PBOX 12.0 #Solvate the complex with a cubic water box
+addions mol Cl- 0 #Add Cl- ions to neutralize the system
+addions mol Na+ 0 #Add Na+ ions to neutralize the system
+charge mol
+savepdb mol ppcomplex_solv.pdb
+saveamberparm mol ppcomplex_solv.prmtop ppcomplex_solv.inpcrd #Save AMBER topology and coordinate files
+quit #Quit tleap program
+**********************************************************************
+
+tleap -s -f tleap.in > tleap.out
+
+```
+
+### run rolecular dynamics
 
 ```python
 
+python run_openmm_simulation.py
+
 ```
+
 
 ## Model Metrics
 
