@@ -111,5 +111,5 @@ Code is released under MIT LICENSE.
 
 ## Cite:
 
-
+*  Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domenico L. Gatti. **"Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks."** arXiv preprint arXiv:2206.04683 (2022).
 
