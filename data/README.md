@@ -1,7 +1,7 @@
 ## Barnase-Barstar Complex
 
-**PDB(ID): 1BRS**
-
+**PDB(ID): 1BRS**  
+https://www.rcsb.org/structure/1brs
 
 ### Pairwise RMSD of Barnase-Barstar Complex  
 
