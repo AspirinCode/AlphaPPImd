@@ -12,7 +12,7 @@ We thank the authors of Molecular dynamics without molecules: searching the conf
 ```python
 Python==3.7
 biopython==1.7.9
-ambertools=+21    #conda install -c conda-forge ambertools=23
+ambertools==21    #conda install -c conda-forge ambertools=23
 openmm==7.7.0
 mdanalysis==2.1.0
 mdtraj==1.9.7
