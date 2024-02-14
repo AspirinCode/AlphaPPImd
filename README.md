@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/AspirinCode/DeepPPImd)
+
 # DeepPPImd
 **Exploring the conformational space of protein-protein complexes with transformer-based generative model**  
 
