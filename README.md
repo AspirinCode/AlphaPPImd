@@ -5,7 +5,7 @@ Protein-protein interactions are the basis of many protein functions, and unders
 
 
 ## Framework of DeepPPImd
-![Model Architecture of DeepPPImd](https://github.com/AspirinCode/GENiPPI/blob/latest_branch/figure/GENiPPI_framework.jpg)
+![Model Architecture of DeepPPImd](https://github.com/AspirinCode/DeepPPImd/blob/main/figure/DeepPPImd_framework.png)
 
 
 ## Acknowledgements
