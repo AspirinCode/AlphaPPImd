@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/AspirinCode/DeepPPImd)
 
-**The code will be made available on GitHub after peer review！！！** 
+**The code will be made available on GitHub after the article is peer-reviewed！！！** 
 
 # DeepPPImd
 **Exploring the conformational space of protein-protein complexes with transformer-based generative model**  
