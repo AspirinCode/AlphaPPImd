@@ -2,14 +2,14 @@
 
 **The code will be made available on GitHub after the article is peer-reviewed！！！** 
 
-# DeepPPImd
+# AlphaPPImd
 **Exploring the conformational space of protein-protein complexes with transformer-based generative model**  
 
 Protein-protein interactions are the basis of many protein functions, and understanding the contact and conformational changes of protein-protein interactions is crucial for linking protein structure to biological function. Although difficult to detect experimentally, molecular dynamics (MD) simulations are widely used to study the conformational space and dynamics of protein-protein complexes, but there are significant limitations in sampling efficiency and computational costs. In this study, a generative neural network was trained on protein-protein complex conformations obtained from molecular simulations to directly generate new conformations with physical realism. We demonstrated the use of a deep learning model based on the transformer architecture to explore the conformational space of protein-protein complexes through MD simulations. The results showed that the learned latent space can be used to generate unsampled conformations of protein-protein complexes for obtaining new conformations complementing pre-existing ones, which can be used as an exploratory tool for the analysis and enhancement of molecular simulations of protein-protein complexes.
 
 
-## Framework of DeepPPImd
-![Model Architecture of DeepPPImd](https://github.com/AspirinCode/DeepPPImd/blob/main/figure/DeepPPImd_framework.png)
+## Framework of AlphaPPImd
+![Model Architecture of AlphaPPImd](https://github.com/AspirinCode/AlphaPPImd/blob/main/figure/DeepPPImd_framework.png)
 
 
 ## Acknowledgements
