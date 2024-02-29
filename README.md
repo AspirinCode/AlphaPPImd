@@ -1,4 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/AspirinCode/DeepPPImd)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv2024.02.24.581708-green
+)](https://doi.org/10.1101/2024.02.24.581708)
 
 **The code will be made available on GitHub after the article is peer-reviewed！！！** 
 
