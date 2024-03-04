@@ -15,3 +15,11 @@ https://www.rcsb.org/structure/1brs
 ![RMSD of Barnase-Barstar Complex](https://github.com/AspirinCode/TransPPImd/blob/main/data/Barnase-Barstar_pairwise-rmsd.png)
 
 
+
+### Contact
+
+**The data file for the molecular dynamics trajectories is too large, please email if you need it.**
+
+E-mail: drugai@hotmail.com
+
+
