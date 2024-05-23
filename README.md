@@ -20,7 +20,7 @@ We thank the authors of Molecular dynamics without molecules: searching the conf
 
 ## News!
 
-**[2024/05/22]** Accepted in *Journal of Chemical Theory and Computation*, 2024.
+**[2024/05/22]** Accepted in **Journal of Chemical Theory and Computation**, 2024.
 
 
 
