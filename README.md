@@ -18,6 +18,12 @@ Protein-protein interactions are the basis of many protein functions, and unders
 We thank the authors of Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks for releasing their code. The code in this repository is based on their source code release (https://github.com/dgattiwsu/MD_without_molecules). If you find this code useful, please consider citing their work.
 
 
+## News!
+
+**[2024/05/22]** Accepted in *Journal of Chemical Theory and Computation*, 2024.
+
+
+
 ## Requirements
 ```python
 Python==3.7
