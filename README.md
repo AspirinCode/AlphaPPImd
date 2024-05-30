@@ -127,6 +127,6 @@ Code is released under MIT LICENSE.
 
 
 ## Cite:
-
+*  Jianmin Wang, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, Xiangxiang Zeng. **"Exploring the conformational ensembles of protein-protein complex with transformer-based generative model."** Journal of Chemical Theory and Computation; doi: https://doi.org/10.1021/acs.jctc.4c00255
 *  Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domenico L. Gatti. **"Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks."** arXiv preprint arXiv:2206.04683 (2022).
 *  Jianmin Wang, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, Xiangxiang Zeng. **"Exploring the conformational ensembles of protein-protein complex with transformer-based generative model."** bioRxiv 2024.02.24.581708; doi: https://doi.org/10.1101/2024.02.24.581708
