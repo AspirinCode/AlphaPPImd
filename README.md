@@ -20,6 +20,8 @@ We thank the authors of Molecular dynamics without molecules: searching the conf
 
 ## News!
 
+**[2024/05/30]** AlphaPPImd is [online(J. Chem. Theory Comput.)](https://doi.org/10.1021/acs.jctc.4c00255).
+
 **[2024/05/22]** Accepted in **Journal of Chemical Theory and Computation**, 2024.
 
 
