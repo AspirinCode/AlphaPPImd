@@ -1,7 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/AspirinCode/DeepPPImd)
-[![bioRxiv](https://img.shields.io/badge/bioRxiv2024.02.24.581708-green
-)](https://doi.org/10.1101/2024.02.24.581708)
-
+[![bioRxiv](https://img.shields.io/badge/bioRxiv2024.02.24.581708-green)](https://doi.org/10.1101/2024.02.24.581708)
+[![bioRxiv](https://img.shields.io/badge/10.1021%2Facs.jctc.4c00255-pink)](https://doi.org/10.1021/acs.jctc.4c00255)
 
 
 # AlphaPPImd
